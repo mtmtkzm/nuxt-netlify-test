@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-netlify-test
+        nuxt-netlify-test  feature 1
       </h1>
       <h2 class="subtitle">
         My delightful Nuxt.js project
